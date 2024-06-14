@@ -115,7 +115,7 @@ To retrieve label names to use with the Microsoft Purview Information Protection
 
 ```powershell
 # If needed to run PowerShell scripts on machine, adjust the Execution Policy 
-Set-ExecutionPolicy -ExecutionPolicy Unrestircted -Scope Process
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
 ```
 
 ```powershell
